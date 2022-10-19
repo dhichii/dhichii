@@ -1,5 +1,4 @@
-# Hi! I'm Adhi (He/Him)
-<img src=./hero.png align=center/>
+# Hi! I'm Adhi
 
 ## Things i code with
 ![](https://img.shields.io/badge/go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
