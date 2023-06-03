@@ -9,5 +9,8 @@
 ![](https://img.shields.io/badge/amazon_web_services-FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![](https://img.shields.io/badge/-google_cloud_platform-1a73e8?style=for-the-badge&logo=google-cloud&logoColor=white)
 
+\
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhichii&hide=kotlin&theme=github_dark_dimmed)
+
 ## Get in Touch
 [![](https://img.shields.io/badge/linkedin-1E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adhicittamasran)
