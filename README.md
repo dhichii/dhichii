@@ -2,28 +2,28 @@
 
 ## Things I code with
 ### Programming Language
-![](./assets/icon/golang.png)
-![](./assets/icon/javascript.png)
-![](./assets/icon/typescript.png)
-![](./assets/icon/nodejs.png)
+[![](./assets/icon/golang.png)]()
+[![](./assets/icon/javascript.png)]()
+[![](./assets/icon/typescript.png)]()
+[![](./assets/icon/nodejs.png)]()
 
 ### Framework
-![](./assets/icon/echo.png)
-![](./assets/icon/expressjs.png)
-![](./assets/icon/hapijs.png)
+[![](./assets/icon/echo.png)]()
+[![](./assets/icon/expressjs.png)]()
+[![](./assets/icon/hapijs.png)]()
 
 ### Database
-![](./assets/icon/mysql.png)
-![](./assets/icon/postgresql.png)
-![](./assets/icon/redis.png)
+[![](./assets/icon/mysql.png)]()
+[![](./assets/icon/postgresql.png)]()
+[![](./assets/icon/redis.png)]()
 
 ### Tools
-![](./assets/icon/docker.png)
-![](./assets/icon/postman.png)
+[![](./assets/icon/docker.png)]()
+[![](./assets/icon/postman.png)]()
 
 ### Cloud
-![](./assets/icon/aws.png)
-![](./assets/icon/gcp.png)
+[![](./assets/icon/aws.png)]()
+[![](./assets/icon/gcp.png)]()
 
 \
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhichii&hide=kotlin&theme=github_dark_dimmed)
